@@ -1,4 +1,3 @@
-build
 
   mvn spring-boot:run
   
