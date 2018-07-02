@@ -61,5 +61,7 @@ oc get pods
 oc logs -f tutorialbank
 ## view all exposed services
 oc get svc
+## expose service tutorial bank 
 oc expose svc tutorialbank
+## get all route 
 oc get route
